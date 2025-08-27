@@ -1,4 +1,4 @@
-# super-array-js
+# Super-Array-Js
 
 Vamos criar um tipo de estrutura de dados que irá ter alguns métodos para facilitar a manipulação de arrays.
 
